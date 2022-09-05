@@ -1,1 +1,8 @@
-
+ {
+      "chainId": 1 = ETHEREUM, 137 = POLYGON,
+      "address": "0x519322Bfe8d39f45dFF334A702677926A82D856a",
+      "name": "GameFi Basket",
+      "symbol": "GFB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/IMAGE_FILE_NAME_FROM_STEP_3.extension"
+    }
