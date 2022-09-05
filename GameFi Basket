@@ -4,12 +4,12 @@
     "setName": "GameFi Basket",
     "setSymbol": "GMF",
     "setDecimals": 18,
-    "setIcon": "",
+    "setIcon": "http://clipart-library.com/clip-art/video-game-transparent-4.htm",
     "setDescription": "This basket of crypto assets gives investors exposure to a number of different GameFi investments. A niche industry in crypto with a growing audience of users and investors.",
     "website": "",
     "managerName": "Basket Finance",
     "managerTwitter": "",
-    "managerIcon": "",
+    "managerIcon": "http://clipart-library.com/clip-art/basket-transparent-1.htm",
     "managerDescription": "Basket Finance provides simple investing vehicles to provide exposure to niche and broad themes in the crypto market"
   },
   "version": 1
